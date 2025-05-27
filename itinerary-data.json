@@ -1,0 +1,1952 @@
+{
+  "days": [
+    {
+      "date": "2025-05-24",
+      "dayOfWeek": "Saturday",
+      "stops": [
+        {
+          "name": "Arrival in Athens",
+          "type": "Transport",
+          "address": "Athens International Airport, Spata, Greece",
+          "coordinates": "37.9364,23.9475",
+          "scheduledTime": "11:55",
+          "duration": "Arrival only",
+          "description": "Flight arrival at Athens International Airport - gateway to ancient Greece",
+          "wikiInfo": {
+            "title": "About Athens International Airport",
+            "content": "Athens International Airport 'Eleftherios Venizelos' is the largest international airport in Greece, serving the Athens area and Attica region. Named after the aviation pioneer Eleftherios Venizelos.",
+            "link": "https://en.wikipedia.org/wiki/Athens_International_Airport"
+          },
+          "mobileInfo": {
+            "quickTip": "Airport WiFi: AIA Free WiFi - No password needed",
+            "essentials": ["Get local SIM card at arrivals", "Download offline maps", "Get 5-day metro pass (€9)", "Currency exchange available"],
+            "apps": ["Beat (taxi app)", "Athens Transport", "Google Translate", "Offline Athens Map"]
+          },
+          "transportOptions": [
+            {
+              "method": "Metro Line 3 (Blue Line)",
+              "duration": "40 minutes to Syntagma",
+              "cost": "€10 (to city center)",
+              "frequency": "Every 30 minutes",
+              "mobileNote": "Direct to Syntagma, then Line 2 to Omonia",
+              "pros": ["Fastest", "No traffic", "Connects to metro network"],
+              "cons": ["Need to change lines", "Luggage space limited"]
+            },
+            {
+              "method": "X95 Express Bus",
+              "duration": "60-90 minutes (traffic dependent)",
+              "cost": "€6",
+              "frequency": "Every 20 minutes (24/7)",
+              "mobileNote": "Direct to Syntagma Square",
+              "pros": ["Cheapest", "Direct route", "More luggage space"],
+              "cons": ["Traffic delays", "Less frequent than metro"]
+            },
+            {
+              "method": "Taxi/Beat App",
+              "duration": "45-60 minutes (traffic dependent)",
+              "cost": "€35-50 (including tolls)",
+              "frequency": "On demand",
+              "mobileNote": "Download Beat app - Greek Uber equivalent",
+              "pros": ["Door to door", "No luggage hassle", "Air conditioning"],
+              "cons": ["Most expensive", "Traffic dependent", "Possible language barrier"]
+            }
+          ],
+          "directions": {
+            "to": "Skylark Athens Hotel",
+            "distance": "40km",
+            "time": "45-90 min (depending on transport)",
+            "cost": "€6-50",
+            "recommendedTransport": "Metro + short walk (best value/time)",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9364,23.9475",
+            "publicTransportSteps": [
+              "Take Metro Line 3 (Blue) to Syntagma (40 min)",
+              "Change to Line 2 (Red) towards Anthoupoli",
+              "Travel 2 stops to Omonia (4 min)",
+              "Exit and walk 2 minutes to hotel"
+            ],
+            "walkingDirections": "From Omonia Metro: Exit towards Omonia Square, head northeast on Marikas Kotopouli Street"
+          }
+        },
+        {
+          "name": "Hotel Check-in & Rest",
+          "type": "Accommodation",
+          "address": "Marikas Kotopouli 3, Athens 104 31, Greece",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "12:30-15:30",
+          "duration": "3 hours",
+          "description": "Check into Skylark Athens hotel and recover from travel - modern hotel in central Athens",
+          "wikiInfo": {
+            "title": "About Central Athens Location",
+            "content": "Located near Omonia Square, this area is a major transportation hub and commercial center of Athens, providing easy access to major attractions.",
+            "link": "https://en.wikipedia.org/wiki/Omonia_Square"
+          },
+          "hotelInfo": {
+            "name": "Skylark Athens",
+            "phone": "+30 2144056400",
+            "email": "skylark@alumahotels.gr",
+            "website": "https://www.alumahotels.com/hotel/skylark/",
+            "nearbyMetro": "Omonia Station (2 min walk)",
+            "checkInTime": "14:00",
+            "checkOutTime": "12:00",
+            "amenities": ["Free WiFi", "Air conditioning", "24-hour reception", "Luggage storage"]
+          },
+          "mobileInfo": {
+            "quickTip": "Hotel WiFi password available at reception - ask for Athens recommendations",
+            "essentials": ["Charge all devices", "Download offline Athens map", "Set up mobile data", "Get hotel business card"],
+            "nearbyServices": ["ATM opposite hotel", "Pharmacy 50m away", "Supermarket 100m", "Metro station 150m"]
+          },
+          "activities": [
+            {
+              "name": "Check-in Process",
+              "description": "Room assignment, hotel briefing, and key collection",
+              "duration": "15 minutes",
+              "price": "Included",
+              "mobileNote": "Get local recommendations from reception staff"
+            },
+            {
+              "name": "Rest & Freshen Up",
+              "description": "Recover from travel, shower, and prepare for afternoon exploration",
+              "duration": "2.5 hours",
+              "price": "Free",
+              "mobileNote": "Perfect time to plan your Athens itinerary"
+            }
+          ],
+          "directions": {
+            "to": "Omonia Square",
+            "distance": "0.2km",
+            "time": "2 min walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9842,23.7281&navigate=yes&from=37.9838,23.7275"
+          }
+        },
+        {
+          "name": "Visit Omonia Square",
+          "type": "Place of Interest",
+          "address": "Omonia Square, Athens, Greece",
+          "coordinates": "37.9842,23.7281",
+          "scheduledTime": "16:30-18:30",
+          "duration": "2 hours",
+          "walkingTime": "2 minutes from hotel",
+          "description": "Impressive fountain with 188 water jets - perfect introduction to Athens atmosphere and culture",
+          "wikiInfo": {
+            "title": "About Omonia Square",
+            "content": "Omonia Square is one of the central squares in Athens. The name means 'concord' or 'harmony'. It's a major transportation hub and has been the commercial heart of Athens since the 19th century.",
+            "link": "https://en.wikipedia.org/wiki/Omonia_Square"
+          },
+          "mobileInfo": {
+            "quickTip": "Great spot for first Athens photos and people watching - very safe during daytime",
+            "essentials": ["Free WiFi at surrounding cafes", "Multiple ATMs available", "Tourist information nearby", "Public restrooms at metro station"]
+          },
+          "photoSpots": [
+            "Central fountain with 188 water jets (best at golden hour 17:30)",
+            "Historic neoclassical architecture surrounding square",
+            "Metro station entrance with modern art installations",
+            "Street life and local vendors"
+          ],
+          "timeline": [
+            "1846: Square originally designed as part of Athens urban plan",
+            "1950s: Major reconstruction and modernization",
+            "2020: Latest renovation with new fountain system"
+          ],
+          "activities": [
+            {
+              "name": "Fountain Photography Session",
+              "description": "Capture the impressive 188-jet water fountain display",
+              "duration": "30 minutes",
+              "price": "Free",
+              "mobileNote": "Best lighting at 17:30 for golden hour photos"
+            },
+            {
+              "name": "Square & Neighborhood Exploration",
+              "description": "Walk around historic square and explore nearby pedestrian streets",
+              "duration": "1.5 hours",
+              "price": "Free",
+              "mobileNote": "Grab Greek coffee and observe authentic local life"
+            }
+          ],
+          "cuisine": [
+            "Traditional Greek coffee (served strong and sweet)",
+            "Fresh souvlaki from street vendors",
+            "Bougatsa (custard pastry) from local bakeries",
+            "Fresh fruit juices from corner stands"
+          ],
+          "souvenirs": [
+            "Greek worry beads (komboloi) from street vendors (€5-15)",
+            "Traditional Greek postcards (€1-3)",
+            "Local newspapers as cultural souvenirs",
+            "Small Greek flag pins (€2-5)"
+          ],
+          "directions": {
+            "to": "Dinner location (stay in area)",
+            "distance": "0.3km radius",
+            "time": "2-8 min walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9845,23.7285&navigate=yes&from=37.9842,23.7281"
+          }
+        },
+        {
+          "name": "Dinner in Omonia Area",
+          "type": "Dining",
+          "address": "Omonia area, Athens, Greece",
+          "coordinates": "37.9842,23.7281",
+          "scheduledTime": "18:30-20:30",
+          "duration": "2 hours",
+          "walkingTime": "5-10 minute radius from hotel",
+          "description": "Many affordable authentic Greek restaurants within walking distance - experience real Athens dining culture",
+          "mobileInfo": {
+            "quickTip": "Most restaurants open at 19:00 - Greeks dine late! Don't rush your meal",
+            "essentials": ["Try traditional Greek dishes", "Ask for tap water (it's free and safe)", "Cash preferred at local tavernas", "Tipping 5-10% is appreciated"]
+          },
+          "cuisine": [
+            "Traditional moussaka (layered casserole with eggplant)",
+            "Fresh Greek salads with feta and olives",
+            "Grilled lamb and seafood specialties",
+            "Local wines and ouzo (traditional Greek spirit)"
+          ],
+          "diningRecommendations": [
+            {
+              "name": "Thanasis",
+              "cuisine": "Greek Souvlaki Specialist",
+              "priceRange": "€8-15 per person",
+              "specialDish": "Lamb souvlaki with warm pita bread",
+              "walkingTime": "5 minutes from hotel",
+              "address": "Mitropoleos 69, Athens",
+              "phone": "+30 21 0324 4705",
+              "mobileNote": "Cash only, very popular with locals - authentic experience",
+              "openingHours": "11:00-02:00 daily"
+            },
+            {
+              "name": "Dionysos Traditional Taverna",
+              "cuisine": "Traditional Greek",
+              "priceRange": "€15-25 per person",
+              "specialDish": "Fresh seafood mezze platters",
+              "walkingTime": "8 minutes from hotel",
+              "address": "Panepistimiou 18, Athens",
+              "phone": "+30 21 0360 3182",
+              "mobileNote": "Accepts cards, English menu available, tourist-friendly",
+              "openingHours": "18:00-24:00 daily"
+            }
+          ],
+          "directions": {
+            "to": "Monastiraki",
+            "distance": "1.2km",
+            "time": "15 min walk",
+            "cost": "Free walking",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9755,23.7256&navigate=yes&from=37.9842,23.7281",
+            "walkingRoute": "Down Athinas Street - pleasant evening walk through central Athens"
+          }
+        },
+        {
+          "name": "Evening Stroll - Monastiraki",
+          "type": "Evening Activity",
+          "address": "Monastiraki, Athens, Greece",
+          "coordinates": "37.9755,23.7256",
+          "scheduledTime": "20:30-22:30",
+          "duration": "2 hours",
+          "walkingTime": "15 minutes from hotel",
+          "description": "Lively flea market area with shops, street performers, and vibrant nightlife - Athens comes alive in the evening",
+          "wikiInfo": {
+            "title": "About Monastiraki",
+            "content": "Monastiraki is a flea market neighborhood in the old town of Athens, Greece, and is one of the principal shopping districts. The area is named after Monastiraki Square, which takes its name from a small monastery.",
+            "link": "https://en.wikipedia.org/wiki/Monastiraki"
+          },
+          "mobileInfo": {
+            "quickTip": "Most shops open until 23:00, perfect for evening browsing - very safe and well-lit area",
+            "essentials": ["Bargaining acceptable at street vendors", "Keep valuables secure in crowds", "Many late-night cafes available", "Metro runs until 00:30"]
+          },
+          "photoSpots": [
+            "Flea market stalls with golden hour lighting",
+            "Street performers and traditional musicians",
+            "Traditional architecture with Acropolis backdrop",
+            "Monastiraki Metro station with visible ancient ruins",
+            "Hadrian's Library ruins (free to photograph from outside)"
+          ],
+          "timeline": [
+            "11th century: Small monastery built (gives area its name)",
+            "Ottoman period: Major commercial center",
+            "1960s: Flea market tradition established",
+            "Present: Major tourist and shopping destination"
+          ],
+          "activities": [
+            {
+              "name": "Flea Market Browse",
+              "description": "Explore famous flea market stalls and traditional shops",
+              "duration": "1 hour",
+              "price": "Free browsing (purchases optional)",
+              "mobileNote": "Great for authentic souvenirs - compare prices before buying"
+            },
+            {
+              "name": "Street Performance & Atmosphere",
+              "description": "Enjoy local street musicians and evening atmosphere",
+              "duration": "1 hour",
+              "price": "Free (tips appreciated €1-2)",
+              "mobileNote": "Peak activity around 21:00-22:00 - grab a drink and people-watch"
+            }
+          ],
+          "souvenirs": [
+            "Traditional Greek handicrafts and pottery (€5-20)",
+            "Vintage postcards and historical prints (€2-10)",
+            "Local artwork and handmade jewelry (€10-50)",
+            "Premium Greek olive oil and honey (€8-25)",
+            "Worry beads (komboloi) in various styles (€3-15)"
+          ],
+          "directions": {
+            "to": "Return to Hotel",
+            "distance": "1.2km",
+            "time": "15 min walk or 5 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9755,23.7256",
+            "walkingRoute": "Up Athinas Street - well-lit main road, very safe",
+            "publicTransportOption": "Metro: Monastiraki to Omonia (1 stop on Line 2)"
+          }
+        },
+        {
+          "name": "Return to Hotel",
+          "type": "Transport",
+          "address": "Skylark Athens Hotel",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "22:30",
+          "duration": "15 minutes",
+          "walkingTime": "15 minutes from Monastiraki",
+          "description": "End of first day in Athens - rest before tomorrow's major sightseeing at the Acropolis",
+          "mobileInfo": {
+            "quickTip": "Set alarm for 8:00 AM - big sightseeing day tomorrow at the Acropolis!",
+            "essentials": ["Charge all devices overnight", "Download Acropolis Museum app", "Check tomorrow's weather", "Set comfortable clothes aside"]
+          },
+          "transportOptions": [
+            {
+              "method": "Walking",
+              "duration": "15 minutes",
+              "cost": "Free",
+              "route": "Via Athinas Street - main pedestrian-friendly road",
+              "mobileNote": "Safe route, well-lit, passed several times today - pleasant evening walk"
+            },
+            {
+              "method": "Metro",
+              "duration": "8 minutes total (including walking)",
+              "cost": "€1.40",
+              "route": "Monastiraki to Omonia (1 stop) + 2 min walk to hotel",
+              "mobileNote": "Quick option if tired, metro runs until 00:30"
+            }
+          ]
+        }
+      ],
+      "travelInfo": {
+        "distance": "42.6km total",
+        "cost": "€10-16 (depending on airport transport choice)",
+        "time": "4 hours 35 minutes (including rest time)"
+      },
+      "dailySummary": {
+        "totalWalkingTime": "45 minutes",
+        "totalTransportCost": "€10-16",
+        "totalDiningBudget": "€15-30",
+        "keyHighlights": ["First Athens impressions", "Omonia fountain", "Monastiraki evening atmosphere"],
+        "tomorrowPrep": ["Early start for Acropolis (8:00 AM)", "Wear comfortable walking shoes", "Bring water and sun protection", "Download Acropolis app"]
+      },
+      "practicalInfo": {
+        "emergencyNumber": "112 (general emergency)",
+        "policeNumber": "100",
+        "medicalEmergency": "166",
+        "nearbyHospital": "General Hospital of Athens, Mesogion 154, Athens (15 min by taxi)",
+        "nearestPharmacy": "Multiple pharmacies on Omonia Square - open until 22:00",
+        "localCustoms": [
+          "Greeks dine late - restaurants get busy after 19:00",
+          "Tipping 5-10% is appreciated but not mandatory",
+          "Greet with 'Yassou' (informal) or 'Yass sas' (formal) - locals appreciate effort",
+          "Many shops close 15:00-17:00 for siesta, then reopen until 21:00"
+        ],
+        "mobileEssentials": [
+          "Download offline Google Maps for Athens",
+          "Get Athens Transport app for real-time metro info",
+          "Save hotel address in Greek: Μαρίκας Κοτοπούλη 3",
+          "Add emergency contacts with Greek numbers",
+          "Download Google Translate with Greek offline package"
+        ],
+        "budgetBreakdown": {
+          "transport": "€10-16",
+          "meals": "€15-30",
+          "activities": "€0 (all free today)",
+          "souvenirs": "€10-50 (optional)",
+          "total": "€35-96 per person"
+        }
+      },
+      "events": []
+    },
+    {
+      "date": "2025-05-25",
+      "dayOfWeek": "Sunday",
+      "stops": [
+        {
+          "name": "Breakfast",
+          "type": "Dining",
+          "address": "Hotel or nearby café",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "08:00-09:00",
+          "duration": "1 hour",
+          "description": "Traditional Greek breakfast to fuel your Acropolis adventure",
+          "mobileInfo": {
+            "quickTip": "Greek breakfast includes fresh bread, honey, yogurt, and strong coffee",
+            "essentials": ["Eat well - lots of walking today", "Grab extra water", "Apply sunscreen"]
+          },
+          "diningRecommendations": [
+            {
+              "name": "Hotel Breakfast",
+              "cuisine": "Continental/Greek",
+              "priceRange": "€8-12",
+              "specialDish": "Greek yogurt with honey and nuts",
+              "mobileNote": "Convenient and filling"
+            }
+          ],
+          "directions": {
+            "to": "Acropolis",
+            "distance": "2.5km",
+            "time": "30 min walk or 20 min metro+walk",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9715,23.7267&navigate=yes&from=37.9838,23.7275"
+          }
+        },
+        {
+          "name": "The Acropolis",
+          "type": "Place of Interest",
+          "address": "Acropolis, Athens 105 58, Greece",
+          "coordinates": "37.9715,23.7267",
+          "scheduledTime": "09:30-12:30",
+          "duration": "3 hours",
+          "walkingTime": "30 minutes from hotel",
+          "description": "Visit the iconic Acropolis with the Parthenon, Temple of Athena Nike, Erechtheion, and Theater of Dionysus - crown jewel of ancient Athens",
+          "wikiInfo": {
+            "title": "About the Acropolis of Athens",
+            "content": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon.",
+            "link": "https://en.wikipedia.org/wiki/Acropolis_of_Athens"
+          },
+          "mobileInfo": {
+            "quickTip": "Arrive early (9:30) to avoid crowds and heat - bring water and wear comfortable shoes",
+            "essentials": ["Combined ticket (€20) includes multiple sites", "Allow 3+ hours minimum", "Download official Acropolis app", "Wear hat and sunscreen"]
+          },
+          "photoSpots": [
+            "Parthenon facade from the east (classic view)",
+            "Panoramic city views from the north side",
+            "Temple of Athena Nike (small but perfectly preserved)",
+            "Erechtheion with famous Caryatids (female columns)",
+            "Theater of Dionysus (birthplace of drama)",
+            "Propylaea entrance gateway"
+          ],
+          "timeline": [
+            "447-432 BC: Construction of the Parthenon under Pericles",
+            "421-406 BC: Construction of the Erechtheion",
+            "427-424 BC: Construction of Temple of Athena Nike",
+            "1687: Parthenon damaged by Venetian bombardment",
+            "1975: Major restoration project begins"
+          ],
+          "activities": [
+            {
+              "name": "Parthenon Visit",
+              "description": "Explore the most famous temple dedicated to Athena",
+              "duration": "1 hour",
+              "price": "€20 (combined ticket)",
+              "mobileNote": "Can't enter interior but exterior views are spectacular"
+            },
+            {
+              "name": "Erechtheion & Caryatids",
+              "description": "See the famous female column figures",
+              "duration": "30 minutes",
+              "price": "Included in ticket",
+              "mobileNote": "Originals are in Acropolis Museum - these are replicas"
+            },
+            {
+              "name": "Theater of Dionysus",
+              "description": "Visit the birthplace of theater and drama",
+              "duration": "45 minutes",
+              "price": "Included in ticket",
+              "mobileNote": "Imagine ancient Greek tragedies performed here"
+            },
+            {
+              "name": "Optional Guided Tour",
+              "description": "Professional guide provides historical context",
+              "duration": "2 hours",
+              "price": "€15 additional",
+              "mobileNote": "Highly recommended for first-time visitors"
+            }
+          ],
+          "souvenirs": [
+            "Replica Parthenon sculptures and friezes (€15-50)",
+            "Ancient Greek pottery replicas (€10-30)",
+            "Books on Greek archaeology and history (€12-25)",
+            "Acropolis-themed postcards and prints (€2-8)",
+            "Goddess Athena figurines (€8-20)"
+          ],
+          "cuisine": [
+            "Fresh pomegranate juice from vendors (€3-5)",
+            "Traditional Greek pastries from nearby bakeries",
+            "Cold frappe coffee (perfect for hot weather)",
+            "Fresh fruit from local stands"
+          ],
+          "directions": {
+            "to": "Plaka neighborhood",
+            "distance": "0.8km",
+            "time": "10 min downhill walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9721,23.7307&navigate=yes&from=37.9715,23.7267"
+          }
+        },
+        {
+          "name": "Lunch in Plaka",
+          "type": "Dining",
+          "address": "Plaka neighborhood, Athens, Greece",
+          "coordinates": "37.9721,23.7307",
+          "scheduledTime": "12:30-14:00",
+          "duration": "1.5 hours",
+          "walkingTime": "10 minutes from Acropolis",
+          "description": "Dine in the charming historic neighborhood at the foot of the Acropolis - known as the 'neighborhood of the gods'",
+          "wikiInfo": {
+            "title": "About Plaka",
+            "content": "Plaka is the old historical neighborhood of Athens, clustered around the northern and eastern slopes of the Acropolis, and incorporating labyrinthine streets and neoclassical architecture. It has a village feel within the city.",
+            "link": "https://en.wikipedia.org/wiki/Plaka"
+          },
+          "mobileInfo": {
+            "quickTip": "Perfect place to rest after Acropolis climb - shaded streets and traditional atmosphere",
+            "essentials": ["Try traditional Greek lunch dishes", "Many restaurants have Acropolis views", "Cash preferred at smaller tavernas"]
+          },
+          "cuisine": [
+            "Traditional moussaka (baked layers of eggplant and meat)",
+            "Fresh Greek village salads with tomatoes and feta",
+            "Grilled lamb souvlaki with herbs",
+            "Local Athenian wines and retsina"
+          ],
+          "diningRecommendations": [
+            {
+              "name": "Scholarhio",
+              "cuisine": "Traditional Greek Taverna",
+              "priceRange": "€18-28 per person",
+              "specialDish": "Lamb kleftiko with traditional Greek sides",
+              "walkingTime": "5 minutes from Acropolis exit",
+              "address": "Tripodon 14, Plaka",
+              "phone": "+30 21 0322 7968",
+              "mobileNote": "Family-run taverna, authentic recipes, limited English menu",
+              "viewType": "Traditional courtyard setting"
+            },
+            {
+              "name": "Dionysos Restaurant",
+              "cuisine": "Greek Fine Dining with Acropolis View",
+              "priceRange": "€35-55 per person",
+              "specialDish": "Fresh fish with lemon and Mediterranean herbs",
+              "walkingTime": "8 minutes from Acropolis",
+              "address": "Roberto Galli 43, Plaka",
+              "phone": "+30 21 0923 3182",
+              "mobileNote": "Reservations recommended, spectacular Acropolis views, English menu",
+              "viewType": "Direct Acropolis views from terrace"
+            }
+          ],
+          "directions": {
+            "to": "Acropolis Museum",
+            "distance": "0.4km",
+            "time": "5 min walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9684,23.7286&navigate=yes&from=37.9721,23.7307"
+          }
+        },
+        {
+          "name": "Acropolis Museum",
+          "type": "Museum",
+          "address": "Dionysiou Areopagitou 15, Athens 117 42, Greece",
+          "coordinates": "37.9684,23.7286",
+          "scheduledTime": "14:00-16:30",
+          "duration": "2.5 hours",
+          "walkingTime": "5-10 minutes from Acropolis",
+          "description": "Modern architectural marvel housing artifacts from the Acropolis - located just 280m from the Parthenon with direct views",
+          "wikiInfo": {
+            "title": "About Acropolis Museum",
+            "content": "The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.",
+            "link": "https://en.wikipedia.org/wiki/Acropolis_Museum"
+          },
+          "mobileInfo": {
+            "quickTip": "Perfect complement to Acropolis visit - see the original sculptures and artifacts up close",
+            "essentials": ["€15 entrance fee", "Audio guide available (€5)", "Photography allowed in most areas", "Air conditioned (great relief!)"]
+          },
+          "photoSpots": [
+            "Glass floor revealing ongoing archaeological excavations",
+            "Parthenon Gallery with direct Acropolis views through windows",
+            "Original Caryatids from the Erechtheion",
+            "Parthenon frieze sculptures",
+            "Modern architecture contrasting with ancient artifacts"
+          ],
+          "activities": [
+            {
+              "name": "Parthenon Gallery",
+              "description": "View original Parthenon sculptures and friezes with Acropolis views",
+              "duration": "1 hour",
+              "price": "€15 entrance fee",
+              "mobileNote": "Top floor gallery designed to match Parthenon proportions exactly"
+            },
+            {
+              "name": "Archaeological Collections",
+              "description": "Explore artifacts from all periods of Acropolis history",
+              "duration": "1 hour",
+              "price": "Included in entrance",
+              "mobileNote": "See original Caryatids and learn their stories"
+            },
+            {
+              "name": "Museum Shop & Café",
+              "description": "Browse high-quality replicas and enjoy café with views",
+              "duration": "30 minutes",
+              "price": "Café items €3-8",
+              "mobileNote": "Perfect place for coffee break with Acropolis backdrop"
+            }
+          ],
+          "directions": {
+            "to": "Free time/Rest (Plaka or Hotel)",
+            "distance": "0.4km to Plaka or 2.8km to hotel",
+            "time": "5 min to Plaka or 25 min walk to hotel",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9721,23.7307&navigate=yes&from=37.9684,23.7286"
+          }
+        },
+        {
+          "name": "Free Time / Rest",
+          "type": "Free Time",
+          "address": "Plaka or Hotel",
+          "coordinates": "37.9721,23.7307",
+          "scheduledTime": "16:30-18:30",
+          "duration": "2 hours",
+          "description": "Choose to explore more of Plaka neighborhood or return to hotel to rest before evening events",
+          "mobileInfo": {
+            "quickTip": "Good time to rest before required evening events - charge phone and freshen up",
+            "essentials": ["Rest if tired from walking", "Charge devices", "Light snack if needed", "Check evening event details"]
+          },
+          "optionA": {
+            "name": "Continue Plaka Exploration",
+            "description": "Browse shops, visit small museums, enjoy café culture",
+            "activities": ["Shopping for souvenirs", "Visit small Byzantine churches", "Café hopping"]
+          },
+          "optionB": {
+            "name": "Return to Hotel",
+            "description": "Rest, shower, and prepare for evening required events",
+            "transportBack": "25 min walk or metro to Omonia + 2 min walk"
+          },
+          "directions": {
+            "to": "Return to Hotel",
+            "distance": "2.8km",
+            "time": "25 min walk or 15 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9721,23.7307"
+          }
+        },
+        {
+          "name": "Return to Hotel to Freshen Up",
+          "type": "Preparation",
+          "address": "Skylark Athens Hotel",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "18:30-19:30",
+          "duration": "1 hour",
+          "description": "Freshen up and prepare for required evening events at Maria Callas Museum",
+          "mobileInfo": {
+            "quickTip": "Important evening ahead - dress nicely for museum tour and reception",
+            "essentials": ["Shower and change clothes", "Charge phone fully", "Bring business cards for networking", "Check route to museum"]
+          },
+          "directions": {
+            "to": "Maria Callas Museum",
+            "distance": "1.7km",
+            "time": "17 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9747,23.7348&navigate=yes&from=37.9838,23.7275"
+          }
+        },
+        {
+          "name": "Maria Callas Museum - REQUIRED EVENT",
+          "type": "Required Event",
+          "address": "Maria Callas Museum, Athens, Greece",
+          "coordinates": "37.9747,23.7348",
+          "scheduledTime": "19:30-20:00",
+          "duration": "30 minutes",
+          "walkingTime": "17 minutes from hotel",
+          "description": "REQUIRED EVENT - Guided tour of the museum dedicated to the famous opera singer Maria Callas",
+          "wikiInfo": {
+            "title": "About Maria Callas",
+            "content": "Maria Callas was an American-born Greek soprano and one of the most renowned and influential opera singers of the 20th century. Many critics praised her bel canto technique, wide-ranging voice and dramatic interpretations.",
+            "link": "https://en.wikipedia.org/wiki/Maria_Callas"
+          },
+          "mobileInfo": {
+            "quickTip": "Mandatory attendance - arrive 10 minutes early for check-in",
+            "essentials": ["Bring ID or confirmation", "Business casual dress code", "Phone on silent during tour", "Networking opportunity"]
+          },
+          "activities": [
+            {
+              "name": "Guided Museum Tour",
+              "description": "Professional guided tour about Maria Callas' life and career",
+              "duration": "30 minutes",
+              "price": "Included in event package",
+              "mobileNote": "Learn about Greece's most famous opera singer"
+            }
+          ],
+          "directions": {
+            "to": "Welcome Reception (same location)",
+            "distance": "0km - same building",
+            "time": "Immediate",
+            "cost": "Free"
+          }
+        },
+        {
+          "name": "Welcome Reception - REQUIRED EVENT",
+          "type": "Required Event",
+          "address": "Maria Callas Museum, Athens, Greece",
+          "coordinates": "37.9747,23.7348",
+          "scheduledTime": "20:30-21:00",
+          "duration": "30 minutes",
+          "description": "REQUIRED EVENT - Welcome reception for event participants with refreshments and networking",
+          "mobileInfo": {
+            "quickTip": "Important networking opportunity - bring business cards and be social",
+            "essentials": ["Network with other participants", "Exchange contact information", "Learn about week's schedule", "Enjoy Greek appetizers"]
+          },
+          "activities": [
+            {
+              "name": "Networking Reception",
+              "description": "Meet other participants, organizers, and enjoy refreshments",
+              "duration": "30 minutes",
+              "price": "Included in event package",
+              "mobileNote": "Great chance to make connections for the week ahead"
+            }
+          ],
+          "directions": {
+            "to": "Return to Hotel",
+            "distance": "1.7km",
+            "time": "17 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9747,23.7348"
+          }
+        }
+      ],
+      "travelInfo": {
+        "distance": "8.5km total walking",
+        "cost": "€36.40 (Acropolis €20 + Museum €15 + transport €1.40)",
+        "time": "12 hours (including scheduled events)"
+      },
+      "dailySummary": {
+        "totalWalkingTime": "2 hours 15 minutes",
+        "totalTransportCost": "€1.40-2.80",
+        "totalDiningBudget": "€25-65 (depending on restaurant choice)",
+        "totalAttractionCosts": "€35 (Acropolis + Museum)",
+        "keyHighlights": ["Parthenon and Acropolis", "Acropolis Museum", "Traditional Plaka lunch", "Required Maria Callas events"],
+        "tomorrowPrep": ["Business sessions start at 10:00 AM", "Prepare presentation materials", "Business casual attire", "Early breakfast recommended"]
+      },
+      "practicalInfo": {
+        "emergencyNumber": "112",
+        "nearbyHospital": "General Hospital of Athens, Mesogion 154, Athens",
+        "localCustoms": [
+          "Dress modestly when visiting religious or historic sites",
+          "Photography may be restricted in some museum areas - ask first",
+          "Respect barriers and don't touch ancient artifacts",
+          "Business events require punctuality and appropriate dress"
+        ],
+        "mobileEssentials": [
+          "Download Acropolis Museum app before visit",
+          "Bring portable phone charger for lots of photo-taking",
+          "Wear very comfortable walking shoes",
+          "Bring water bottle and refill at fountains"
+        ],
+        "budgetBreakdown": {
+          "transport": "€1.40-2.80",
+          "attractions": "€35",
+          "meals": "€25-65",
+          "souvenirs": "€10-30 (optional)",
+          "total": "€71.40-132.80 per person"
+        }
+      },
+      "events": []
+    },
+    {
+      "date": "2025-05-26",
+      "dayOfWeek": "Monday",
+      "stops": [
+        {
+          "name": "Breakfast",
+          "type": "Dining",
+          "address": "Hotel or nearby café",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "08:00-09:00",
+          "duration": "1 hour",
+          "description": "Quick breakfast before first AEP session",
+          "mobileInfo": {
+            "quickTip": "Business day ahead - eat well and arrive punctually at sessions",
+            "essentials": ["Strong coffee needed", "Light but filling meal", "Check session materials"]
+          },
+          "directions": {
+            "to": "AEP Session Venue",
+            "distance": "TBD",
+            "time": "Allow 30 minutes travel time",
+            "cost": "€1.40-3.00"
+          }
+        },
+        {
+          "name": "First AEP Session - REQUIRED EVENT",
+          "type": "Required Event",
+          "address": "Session venue (TBD), Athens, Greece",
+          "coordinates": "37.9755,23.7348",
+          "scheduledTime": "10:00-13:00",
+          "duration": "3 hours",
+          "description": "REQUIRED EVENT - First Athens Education Program session with business focus",
+          "mobileInfo": {
+            "quickTip": "Mandatory attendance - bring notebook, business cards, and charged devices",
+            "essentials": ["Arrive 15 minutes early", "Bring presentation materials", "Network during breaks", "Take notes"]
+          },
+          "activities": [
+            {
+              "name": "AEP Session 1",
+              "description": "Educational program session - topics TBD",
+              "duration": "3 hours",
+              "price": "Included in program fee",
+              "mobileNote": "Mandatory attendance - active participation expected"
+            }
+          ],
+          "directions": {
+            "to": "Showcase Venue",
+            "distance": "0.2km (likely same building)",
+            "time": "2 minutes",
+            "cost": "Free"
+          }
+        },
+        {
+          "name": "Showcase - REQUIRED EVENT",
+          "type": "Required Event",
+          "address": "Showcase venue (likely same as session)",
+          "coordinates": "37.9755,23.7348",
+          "scheduledTime": "13:00-13:30",
+          "duration": "30 minutes",
+          "description": "REQUIRED EVENT - Project or company showcase presentations",
+          "mobileInfo": {
+            "quickTip": "Present your work or company - great networking opportunity",
+            "essentials": ["Prepare elevator pitch", "Bring marketing materials", "Exchange contacts", "Support other presenters"]
+          },
+          "activities": [
+            {
+              "name": "Showcase Presentations",
+              "description": "Brief presentations by participants",
+              "duration": "30 minutes",
+              "price": "Included",
+              "mobileNote": "Be prepared to present briefly about your work"
+            }
+          ],
+          "directions": {
+            "to": "Lunch Location",
+            "distance": "0.5km",
+            "time": "10 minutes walk",
+            "cost": "Free"
+          }
+        },
+        {
+          "name": "Lunch Break",
+          "type": "Free Time",
+          "address": "Near session venue",
+          "coordinates": "37.9755,23.7348",
+          "scheduledTime": "13:30-14:30",
+          "duration": "1 hour",
+          "description": "Free time for lunch - explore local area or grab quick meal",
+          "mobileInfo": {
+            "quickTip": "Quick lunch break - many options near business district",
+            "essentials": ["Don't go too far", "Try local business lunch spots", "Be back on time"]
+          },
+          "diningRecommendations": [
+            {
+              "name": "Local Business Lunch Spots",
+              "cuisine": "Greek/International",
+              "priceRange": "€12-20",
+              "specialDish": "Quick Greek meals",
+              "mobileNote": "Fast service for business crowd"
+            }
+          ],
+          "directions": {
+            "to": "National Archaeological Museum",
+            "distance": "1.5km",
+            "time": "20 min walk or 9 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9888,23.7320&navigate=yes&from=37.9755,23.7348"
+          }
+        },
+        {
+          "name": "National Archaeological Museum",
+          "type": "Museum",
+          "address": "44 Patission Street, Athens 106 82, Greece",
+          "coordinates": "37.9888,23.7320",
+          "scheduledTime": "14:30-16:00",
+          "duration": "1.5 hours",
+          "walkingTime": "9 minutes from hotel",
+          "description": "Visit Greece's premier archaeological museum if time permits - houses incredible ancient artifacts",
+          "wikiInfo": {
+            "title": "About National Archaeological Museum",
+            "content": "The National Archaeological Museum in Athens houses some of the most important artifacts from a variety of archaeological locations around Greece from prehistory to late antiquity. It is considered one of the greatest museums in the world.",
+            "link": "https://en.wikipedia.org/wiki/National_Archaeological_Museum,_Athens"
+          },
+          "mobileInfo": {
+            "quickTip": "World-class museum - focus on highlights if time is limited",
+            "essentials": ["€12 entrance fee", "Audio guide recommended", "Photography allowed", "Museum shop has great books"]
+          },
+          "photoSpots": [
+            "Antikythera Mechanism (ancient Greek computer)",
+            "Mask of Agamemnon (golden funeral mask)",
+            "Bronze statue of Poseidon",
+            "Mycenaean gold artifacts",
+            "Ancient Greek pottery collection"
+          ],
+          "activities": [
+            {
+              "name": "Highlights Tour",
+              "description": "Focus on most famous artifacts and collections",
+              "duration": "1.5 hours",
+              "price": "€12 entrance + €3 audio guide",
+              "mobileNote": "Don't miss the Antikythera Mechanism and Mask of Agamemnon"
+            }
+          ],
+          "directions": {
+            "to": "Return to Hotel",
+            "distance": "0.8km",
+            "time": "9 min walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9888,23.7320"
+          }
+        },
+        {
+          "name": "Return to Hotel to Rest",
+          "type": "Transport",
+          "address": "Skylark Athens Hotel",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "16:00-17:30",
+          "duration": "1.5 hours",
+          "walkingTime": "9 minutes from museum",
+          "description": "Rest at hotel before required evening cultural tour",
+          "mobileInfo": {
+            "quickTip": "Recharge before evening events - another required activity ahead",
+            "essentials": ["Rest and freshen up", "Check evening tour details", "Comfortable walking shoes", "Light dinner before tour"]
+          },
+          "directions": {
+            "to": "Historic Cultural Tour meeting point",
+            "distance": "1.2km",
+            "time": "15 min walk or 8 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9750,23.7300&navigate=yes&from=37.9838,23.7275"
+          }
+        },
+        {
+          "name": "Historic Cultural Tour - REQUIRED EVENT",
+          "type": "Required Event",
+          "address": "Various locations, Athens",
+          "coordinates": "37.9750,23.7300",
+          "scheduledTime": "18:30-20:30",
+          "duration": "2 hours",
+          "description": "REQUIRED EVENT - Professional guided tour of Athens' historic and cultural sites",
+          "mobileInfo": {
+            "quickTip": "Mandatory group tour - meet at designated location on time",
+            "essentials": ["Wear comfortable walking shoes", "Bring water", "Stay with group", "Ask questions"]
+          },
+          "activities": [
+            {
+              "name": "Historic Walking Tour",
+              "description": "Professional guided tour covering multiple historic sites",
+              "duration": "2 hours",
+              "price": "Included in program fee",
+              "mobileNote": "Great way to see Athens with expert guide and fellow participants"
+            }
+          ],
+          "directions": {
+            "to": "Technopolis (Jazz Festival - Optional)",
+            "distance": "1.5km",
+            "time": "20 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9759,23.7064&navigate=yes&from=37.9750,23.7300"
+          }
+        }
+      ],
+      "travelInfo": {
+        "distance": "6.7km total",
+        "cost": "€15.40 (museum + transport)",
+        "time": "10.5 hours (business day)"
+      },
+      "dailySummary": {
+        "totalWalkingTime": "1 hour 15 minutes",
+        "totalTransportCost": "€1.40-4.20",
+        "totalDiningBudget": "€20-35",
+        "totalAttractionCosts": "€12 (museum)",
+        "keyHighlights": ["First AEP session", "Project showcase", "National Archaeological Museum", "Required cultural tour"],
+        "eveningOption": "Optional Athens Jazz Festival at Technopolis (€25-40)"
+      },
+      "practicalInfo": {
+        "emergencyNumber": "112",
+        "nearbyHospital": "General Hospital of Athens, Mesogion 154, Athens",
+        "localCustoms": [
+          "Business events require business casual to formal attire",
+          "Punctuality is crucial for required events",
+          "Active participation expected in sessions",
+          "Networking is key component of program"
+        ],
+        "mobileEssentials": [
+          "Bring business cards to all events",
+          "Keep session venue addresses handy",
+          "Charge devices before long business day",
+          "Save program coordinator contact"
+        ],
+        "budgetBreakdown": {
+          "transport": "€1.40-4.20",
+          "attractions": "€12",
+          "meals": "€20-35",
+          "optional": "€25-40 (Jazz Festival)",
+          "total": "€58.80-91.20 per person"
+        }
+      },
+      "events": [
+        {
+          "name": "Athens Jazz Festival",
+          "description": "OPTIONAL EVENT - Evening jazz performances in Athens' cultural district Technopolis",
+          "venue": "Technopolis Cultural Center",
+          "address": "Pireos 100, Athens",
+          "time": "21:00-00:00",
+          "price": "€25-40 per person",
+          "coordinates": "37.9759,23.7064",
+          "mobileNote": "Great way to experience Athens nightlife with fellow participants",
+          "transportFromHotel": "20 min walk or 15 min metro (€1.40)"
+          }
+      ]
+    },
+    {
+      "date": "2025-05-27",
+      "dayOfWeek": "Tuesday",
+      "stops": [
+        {
+          "name": "Breakfast",
+          "type": "Dining",
+          "address": "Hotel or nearby café",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "08:00-09:00",
+          "duration": "1 hour",
+          "description": "Quick breakfast before second AEP session",
+          "mobileInfo": {
+            "quickTip": "Another business day - fuel up for productive sessions",
+            "essentials": ["Review presentation materials", "Strong coffee recommended", "Check schedule for day"]
+          },
+          "directions": {
+            "to": "AEP Session Venue",
+            "distance": "TBD",
+            "time": "Allow 30 minutes travel time",
+            "cost": "€1.40-3.00"
+          }
+        },
+        {
+          "name": "Second AEP Session - REQUIRED EVENT",
+          "type": "Required Event",
+          "address": "Session venue (TBD), Athens, Greece",
+          "coordinates": "37.9755,23.7348",
+          "scheduledTime": "10:00-13:00",
+          "duration": "3 hours",
+          "description": "REQUIRED EVENT - Second Athens Education Program session with continued business focus",
+          "mobileInfo": {
+            "quickTip": "Build on yesterday's session - active participation expected",
+            "essentials": ["Bring yesterday's notes", "Prepare for group work", "Network during breaks", "Stay engaged"]
+          },
+          "activities": [
+            {
+              "name": "AEP Session 2",
+              "description": "Continuation of educational program - advanced topics",
+              "duration": "3 hours",
+              "price": "Included in program fee",
+              "mobileNote": "Mandatory attendance - follow up on previous day's content"
+            }
+          ],
+          "directions": {
+            "to": "Showcase Venue",
+            "distance": "0.2km (likely same building)",
+            "time": "2 minutes",
+            "cost": "Free"
+          }
+        },
+        {
+          "name": "Showcase - REQUIRED EVENT",
+          "type": "Required Event",
+          "address": "Showcase venue (likely same as session)",
+          "coordinates": "37.9755,23.7348",
+          "scheduledTime": "13:00-13:30",
+          "duration": "30 minutes",
+          "description": "REQUIRED EVENT - Final project presentations and showcase",
+          "mobileInfo": {
+            "quickTip": "Last formal presentation opportunity - make it count",
+            "essentials": ["Final presentation ready", "Exchange final contacts", "Get feedback", "Celebrate completion"]
+          },
+          "activities": [
+            {
+              "name": "Final Showcase",
+              "description": "Present final projects or company updates",
+              "duration": "30 minutes",
+              "price": "Included",
+              "mobileNote": "Wrap up your program participation with strong presentation"
+            }
+          ],
+          "directions": {
+            "to": "Lunch Location",
+            "distance": "0.5km",
+            "time": "10 minutes walk",
+            "cost": "Free"
+          }
+        },
+        {
+          "name": "Lunch",
+          "type": "Free Time",
+          "address": "Near session venue",
+          "coordinates": "37.9755,23.7348",
+          "scheduledTime": "13:30-15:00",
+          "duration": "1.5 hours",
+          "description": "Extended lunch break - celebrate program completion",
+          "mobileInfo": {
+            "quickTip": "Program complete! Time to relax and enjoy Athens",
+            "essentials": ["Celebrate with fellow participants", "Try something special", "Plan afternoon activities"]
+          },
+          "diningRecommendations": [
+            {
+              "name": "Celebration Lunch Spots",
+              "cuisine": "Greek/International",
+              "priceRange": "€15-30",
+              "specialDish": "Traditional Greek feast",
+              "mobileNote": "Treat yourself - program is done!",
+              "walkingTime": "10 minutes from venue"
+            }
+          ],
+          "directions": {
+            "to": "Ancient Agora",
+            "distance": "1.8km",
+            "time": "20 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9753,23.7212&navigate=yes&from=37.9755,23.7348"
+          }
+        },
+        {
+          "name": "Ancient Agora & Temple of Hephaestus",
+          "type": "Place of Interest",
+          "address": "Ancient Agora, Athens 105 55, Greece",
+          "coordinates": "37.9753,23.7212",
+          "scheduledTime": "15:00-18:00",
+          "duration": "3 hours",
+          "walkingTime": "20 minutes from hotel",
+          "description": "Explore the former marketplace and center of ancient Athenian life - features the best-preserved ancient Greek temple",
+          "wikiInfo": {
+            "title": "About Ancient Agora of Athens",
+            "content": "The ancient Agora of Athens was the center of the athletic, artistic, business, social, spiritual and political life in the city. The Temple of Hephaestus here is the best-preserved ancient Greek temple.",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Agora_of_Athens"
+          },
+          "mobileInfo": {
+            "quickTip": "Perfect post-program relaxation - peaceful ancient site with amazing history",
+            "essentials": ["€10 entrance fee", "Comfortable shoes for uneven ground", "Bring water", "Allow 2-3 hours minimum"]
+          },
+          "photoSpots": [
+            "Temple of Hephaestus columns (best preserved Greek temple)",
+            "Agora overview from elevated areas",
+            "Ancient marketplace ruins with Acropolis backdrop",
+            "Stoa of Attalos reconstruction",
+            "Ancient olive trees scattered throughout site"
+          ],
+          "timeline": [
+            "6th century BC: Agora becomes center of Athenian political and commercial life",
+            "449-415 BC: Construction of Temple of Hephaestus",
+            "159-138 BC: Stoa of Attalos built by King Attalos II",
+            "267 AD: Herulian invasion damages many buildings",
+            "1953-1956: American School reconstructs Stoa of Attalos"
+          ],
+          "activities": [
+            {
+              "name": "Temple of Hephaestus Visit",
+              "description": "Explore the best-preserved ancient Greek temple",
+              "duration": "45 minutes",
+              "price": "€10 entrance fee",
+              "mobileNote": "Climb up for amazing views - temple is remarkably intact"
+            },
+            {
+              "name": "Stoa of Attalos & Museum",
+              "description": "Visit reconstructed ancient covered walkway and museum",
+              "duration": "1 hour",
+              "price": "Included in entrance",
+              "mobileNote": "Great introduction to daily life in ancient Athens"
+            },
+            {
+              "name": "Agora Museum",
+              "description": "Learn about democracy and daily life in ancient Athens",
+              "duration": "45 minutes",
+              "price": "Included in entrance",
+              "mobileNote": "See artifacts from excavations and learn about Athenian democracy"
+            },
+            {
+              "name": "Peaceful Walking",
+              "description": "Wander the peaceful ancient paths and olive groves",
+              "duration": "30 minutes",
+              "price": "Free",
+              "mobileNote": "Perfect for reflection after busy program week"
+            }
+          ],
+          "souvenirs": [
+            "Ancient Greek democracy-themed books (€12-20)",
+            "Temple of Hephaestus postcards and prints (€3-8)",
+            "Replica ancient Greek coins (€8-15)",
+            "Agora Museum guidebooks (€10-18)"
+          ],
+          "directions": {
+            "to": "Dinner and Rest at Hotel",
+            "distance": "1.5km",
+            "time": "20 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9753,23.7212"
+          }
+        },
+        {
+          "name": "Dinner and Rest at Hotel",
+          "type": "Dining",
+          "address": "Skylark Athens Hotel area",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "18:00-20:00",
+          "duration": "2 hours",
+          "walkingTime": "20 minutes from Agora",
+          "description": "Relaxed dinner near hotel and rest after completing the program",
+          "mobileInfo": {
+            "quickTip": "Well-deserved rest after program completion - celebrate!",
+            "essentials": ["Try a nice restaurant tonight", "Reflect on program experience", "Plan final day in Athens"]
+          },
+          "diningRecommendations": [
+            {
+              "name": "Celebration Dinner",
+              "cuisine": "Upscale Greek",
+              "priceRange": "€25-40 per person",
+              "specialDish": "Traditional Greek feast with wine",
+              "mobileNote": "Treat yourself - you've completed the program!",
+              "walkingTime": "5-10 minutes from hotel"
+            }
+          ],
+          "directions": {
+            "to": "Optional Jazz Festival",
+            "distance": "1.5km",
+            "time": "20 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9759,23.7064&navigate=yes&from=37.9838,23.7275"
+          }
+        }
+      ],
+      "travelInfo": {
+        "distance": "5.8km total",
+        "cost": "€12.80 (Agora + transport)",
+        "time": "12 hours (final program day)"
+      },
+      "dailySummary": {
+        "totalWalkingTime": "1 hour 20 minutes",
+        "totalTransportCost": "€1.40-4.20",
+        "totalDiningBudget": "€35-65",
+        "totalAttractionCosts": "€10 (Ancient Agora)",
+        "keyHighlights": ["Program completion", "Final showcase", "Ancient Agora exploration", "Temple of Hephaestus"],
+        "eveningOption": "Optional final Athens Jazz Festival night (€25-40)"
+      },
+      "practicalInfo": {
+        "emergencyNumber": "112",
+        "nearbyHospital": "General Hospital of Athens, Mesogion 154, Athens",
+        "localCustoms": [
+          "Ancient sites close at sunset - plan accordingly",
+          "Uneven ground at archaeological sites - wear good shoes",
+          "Perfect day for reflection and slower pace",
+          "Last chance to experience authentic Athens atmosphere"
+        ],
+        "mobileEssentials": [
+          "Take photos of program completion",
+          "Exchange final contacts with participants",
+          "Download final Athens memories",
+          "Plan tomorrow's departure logistics"
+        ],
+        "budgetBreakdown": {
+          "transport": "€1.40-4.20",
+          "attractions": "€10",
+          "meals": "€35-65",
+          "optional": "€25-40 (Jazz Festival)",
+          "total": "€71.40-119.20 per person"
+        }
+      },
+      "events": [
+        {
+          "name": "Athens Jazz Festival - Final Night",
+          "description": "OPTIONAL EVENT - Last chance to experience Athens Jazz Festival",
+          "venue": "Technopolis Cultural Center",
+          "address": "Pireos 100, Athens",
+          "time": "21:00-00:00",
+          "price": "€25-40 per person",
+          "coordinates": "37.9759,23.7064",
+          "mobileNote": "Perfect way to celebrate program completion with fellow participants",
+          "transportFromHotel": "20 min walk or 15 min metro (€1.40)"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-28",
+      "dayOfWeek": "Wednesday",
+      "stops": [
+        {
+          "name": "Breakfast",
+          "type": "Dining",
+          "address": "Hotel or nearby café",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "08:00-09:00",
+          "duration": "1 hour",
+          "description": "Start your free exploration day with traditional Greek breakfast",
+          "mobileInfo": {
+            "quickTip": "Free day ahead - plan your Athens exploration priorities",
+            "essentials": ["Check weather forecast", "Plan route efficiently", "Bring comfortable shoes", "Pack water and snacks"]
+          },
+          "directions": {
+            "to": "Temple of Olympian Zeus",
+            "distance": "2.5km",
+            "time": "25 min walk or 20 min metro+walk",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9695,23.7330&navigate=yes&from=37.9838,23.7275"
+          }
+        },
+        {
+          "name": "Temple of Olympian Zeus & Hadrian's Arch",
+          "type": "Place of Interest",
+          "address": "Vasilissis Olgas Avenue, Athens 105 57, Greece",
+          "coordinates": "37.9695,23.7330",
+          "scheduledTime": "09:30-12:30",
+          "duration": "3 hours",
+          "walkingTime": "25 minutes from hotel",
+          "description": "Visit the once-largest temple in Greece and the nearby Roman triumphal arch - massive ancient ruins",
+          "wikiInfo": {
+            "title": "About Temple of Olympian Zeus",
+            "content": "The Temple of Olympian Zeus, also known as the Olympieion, is a former colossal temple at the center of Athens. Construction began in the 6th century BC but wasn't completed until 638 years later under Roman Emperor Hadrian.",
+            "link": "https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Athens"
+          },
+          "mobileInfo": {
+            "quickTip": "Massive scale temple - appreciate the engineering achievement of ancient builders",
+            "essentials": ["€8 entrance fee", "Great photo opportunities", "Combine with nearby Hadrian's Arch", "Early morning best for photos"]
+          },
+          "photoSpots": [
+            "Massive Corinthian columns (17m high)",
+            "Hadrian's Arch with Acropolis background view",
+            "Temple ruins panorama from different angles",
+            "Comparison shots showing human scale vs columns",
+            "Morning light hitting the marble columns"
+          ],
+          "timeline": [
+            "515 BC: Construction begun by tyrant Peisistratos",
+            "174 BC: Work resumed under Seleucid king Antiochus IV Epiphanes",
+            "131 AD: Finally completed under Roman Emperor Hadrian (638 years later!)",
+            "132 AD: Hadrian's Arch constructed to honor the emperor",
+            "267 AD: Damaged during Herulian invasion"
+          ],
+          "activities": [
+            {
+              "name": "Temple Exploration",
+              "description": "Walk among the massive ancient Corinthian columns",
+              "duration": "1 hour",
+              "price": "€8 entrance fee",
+              "mobileNote": "Only 15 of original 104 columns remain - imagine the original scale!"
+            },
+            {
+              "name": "Hadrian's Arch Visit",
+              "description": "Visit the nearby Roman triumphal arch (free)",
+              "duration": "30 minutes",
+              "price": "Free",
+              "mobileNote": "Great photo spot with inscriptions in Greek and Latin"
+            },
+            {
+              "name": "National Gardens Stroll",
+              "description": "Walk through adjacent National Gardens",
+              "duration": "1 hour",
+              "price": "Free",
+              "mobileNote": "Perfect place to rest and enjoy shade after temple visit"
+            }
+          ],
+          "directions": {
+            "to": "Lunch in Monastiraki",
+            "distance": "2km",
+            "time": "25 min walk or 15 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9755,23.7256&navigate=yes&from=37.9695,23.7330"
+          }
+        },
+        {
+          "name": "Lunch in Monastiraki Area",
+          "type": "Dining",
+          "address": "Monastiraki area, Athens, Greece",
+          "coordinates": "37.9755,23.7256",
+          "scheduledTime": "12:30-14:00",
+          "duration": "1.5 hours",
+          "walkingTime": "15 minutes from Zeus Temple",
+          "description": "Lunch in the vibrant flea market area - great people watching and atmosphere",
+          "mobileInfo": {
+            "quickTip": "Perfect central location - lots of dining options and great atmosphere",
+            "essentials": ["Try traditional Greek lunch", "Browse shops before/after", "Cash preferred at smaller places"]
+          },
+          "diningRecommendations": [
+            {
+              "name": "Funky Gourmet",
+              "cuisine": "Modern Greek Fine Dining",
+              "priceRange": "€45-65 per person",
+              "specialDish": "Contemporary interpretation of Greek classics",
+              "walkingTime": "8 minutes from Monastiraki Square",
+              "phone": "+30 21 0524 2727",
+              "mobileNote": "Michelin-starred restaurant - book ahead if interested",
+              "openingHours": "19:30-24:00 (dinner only)"
+            },
+            {
+              "name": "Ta Karamanlidika tou Fani",
+              "cuisine": "Traditional Greek Deli",
+              "priceRange": "€12-20 per person",
+              "specialDish": "Meze platter with local cheeses and cured meats",
+              "walkingTime": "5 minutes from Monastiraki Square",
+              "phone": "+30 21 0325 4184",
+              "mobileNote": "Perfect for authentic Greek lunch experience",
+              "openingHours": "08:00-02:00 daily"
+            }
+          ],
+          "directions": {
+            "to": "Central Market (Varvakios Agora)",
+            "distance": "0.8km",
+            "time": "10 min walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9796,23.7279&navigate=yes&from=37.9755,23.7256"
+          }
+        },
+        {
+          "name": "Central Market (Varvakios Agora)",
+          "type": "Market",
+          "address": "Athinas Street, Athens 105 51, Greece",
+          "coordinates": "37.9796,23.7279",
+          "scheduledTime": "14:00-16:00",
+          "duration": "2 hours",
+          "walkingTime": "10 minutes from Monastiraki",
+          "description": "Experience authentic local food culture at Athens' bustling central market - sensory overload in the best way",
+          "wikiInfo": {
+            "title": "About Varvakios Agora",
+            "content": "The Varvakios Agora is the central market of Athens, established in 1886. It's a large covered market where vendors sell meat, fish, vegetables, fruits, nuts, and spices - the heart of Athens' food culture.",
+            "link": "https://en.wikipedia.org/wiki/Varvakios_Agora"
+          },
+          "mobileInfo": {
+            "quickTip": "Authentic Athens experience - busy, loud, colorful, and absolutely genuine",
+            "essentials": ["Bring cash for purchases", "Try before you buy", "Don't be afraid to ask questions", "Peak activity in morning"]
+          },
+          "photoSpots": [
+            "Colorful spice displays with mountains of herbs",
+            "Traditional butcher and fish vendor stalls",
+            "Elderly vendors in action",
+            "Hanging cured meats and sausages",
+            "Olive varieties from across Greece"
+          ],
+          "cuisine": [
+            "Premium Greek olive oil from different regions",
+            "Local cheeses (feta, kasseri, graviera)",
+            "Traditional Greek spices and herbs",
+            "Preserved fish (anchovies, sardines)",
+            "Cured meats and traditional sausages",
+            "Fresh nuts and dried fruits"
+          ],
+          "activities": [
+            {
+              "name": "Market Exploration & Photography",
+              "description": "Browse stalls, talk to vendors, capture authentic Athens",
+              "duration": "1.5 hours",
+              "price": "Free (purchases optional)",
+              "mobileNote": "Vendors usually happy to explain products - great cultural exchange"
+            },
+            {
+              "name": "Food Tasting Experience",
+              "description": "Sample local olives, cheeses, and preserved specialties",
+              "duration": "30 minutes",
+              "price": "€10-20 for variety of tastings",
+              "mobileNote": "Perfect way to discover Greek flavors - buy favorites to take home"
+            }
+          ],
+          "souvenirs": [
+            "Premium Greek olive oil (€8-25 depending on quality)",
+            "Local spices and herb blends (€3-10)",
+            "Traditional Greek honey varieties (€6-15)",
+            "Artisanal cheeses (€5-20)",
+            "Dried fruits and nuts (€4-12)"
+          ],
+          "directions": {
+            "to": "Lycabettus Hill",
+            "distance": "2.5km",
+            "time": "30 min walk or 20 min metro+walk",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9813,23.7446&navigate=yes&from=37.9796,23.7279"
+          }
+        },
+        {
+          "name": "Lycabettus Hill",
+          "type": "Scenic Location",
+          "address": "Lycabettus Hill, Athens, Greece",
+          "coordinates": "37.9813,23.7446",
+          "scheduledTime": "16:00-18:30",
+          "duration": "2.5 hours",
+          "walkingTime": "30 minutes from hotel",
+          "description": "Enjoy panoramic views of Athens from the city's highest point at 277 meters - perfect for sunset",
+          "wikiInfo": {
+            "title": "About Mount Lycabettus",
+            "content": "Mount Lycabettus is a Cretaceous limestone hill in Athens, Greece. At 277 meters above sea level, its summit is the highest point in Athens and offers spectacular 360-degree views of the city and sea.",
+            "link": "https://en.wikipedia.org/wiki/Mount_Lycabettus"
+          },
+          "mobileInfo": {
+            "quickTip": "Perfect timing for sunset - arrive by 17:30 for best light and photos",
+            "essentials": ["€7.50 cable car or free hike", "Bring camera/phone charger", "Light jacket for evening", "Stay for sunset!"]
+          },
+          "photoSpots": [
+            "360-degree Athens panorama from summit",
+            "Acropolis from above (different perspective)",
+            "Sunset cityscape with golden light",
+            "St. George Chapel at summit",
+            "Aegean Sea and islands in distance",
+            "Modern Athens sprawl contrasted with ancient sites"
+          ],
+          "activities": [
+            {
+              "name": "Cable Car Ride to Summit",
+              "description": "Take the funicular railway to the top",
+              "duration": "5 minutes each way",
+              "price": "€7.50 round trip",
+              "mobileNote": "Runs every 30 minutes - check last departure time"
+            },
+            {
+              "name": "Hiking to Summit",
+              "description": "Moderate hike up winding path (free alternative)",
+              "duration": "30-45 minutes up",
+              "price": "Free",
+              "mobileNote": "Good workout but worth it - bring water"
+            },
+            {
+              "name": "Sunset Viewing",
+              "description": "Watch the sun set over Athens - magical experience",
+              "duration": "1 hour",
+              "price": "Free",
+              "mobileNote": "Sunset around 18:30 - arrive early for best spots"
+            },
+            {
+              "name": "St. George Chapel Visit",
+              "description": "Visit the small chapel at the summit",
+              "duration": "15 minutes",
+              "price": "Free",
+              "mobileNote": "Simple white chapel - peaceful spot for reflection"
+            }
+          ],
+          "directions": {
+            "to": "Psiri Neighborhood for Dinner",
+            "distance": "2km",
+            "time": "25 min walk downhill or 15 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9764,23.7206&navigate=yes&from=37.9813,23.7446"
+          }
+        },
+        {
+          "name": "Dinner in Psiri",
+          "type": "Dining",
+          "address": "Psiri neighborhood, Athens, Greece",
+          "coordinates": "37.9764,23.7206",
+          "scheduledTime": "19:00-22:00",
+          "duration": "3 hours",
+          "walkingTime": "15 minutes from hotel",
+          "description": "Experience Athens' trendy nightlife district - perfect way to end your Athens adventure",
+          "wikiInfo": {
+            "title": "About Psiri",
+            "content": "Psirri is a gentrified neighborhood in Athens, Greece, today known for its restaurants, bars, live music tavernas, and vibrant nightlife. It's become the hip center of Athens' dining and entertainment scene.",
+            "link": "https://en.wikipedia.org/wiki/Psirri"
+          },
+          "mobileInfo": {
+            "quickTip": "Athens nightlife starts late - perfect timing for authentic experience",
+            "essentials": ["Dress nicely for dinner", "Try local wines", "Bar hop after dinner", "Safe to walk around at night"]
+          },
+          "cuisine": [
+            "Modern Greek fusion dishes",
+            "Traditional mezze with contemporary twists",
+            "Craft cocktails featuring Greek spirits",
+            "International cuisine with Greek influences",
+            "Local wines from Greek islands and mainland"
+          ],
+          "diningRecommendations": [
+            {
+              "name": "Cookoovaya",
+              "cuisine": "Modern Greek",
+              "priceRange": "€25-35 per person",
+              "specialDish": "Creative Greek fusion dishes with modern presentation",
+              "walkingTime": "5 minutes from Psiri center",
+              "phone": "+30 21 0524 9200",
+              "address": "Keramikou 17, Athens",
+              "mobileNote": "Trendy spot popular with locals - reservations recommended",
+              "openingHours": "20:00-02:00 (closed Sundays)"
+            },
+            {
+              "name": "Dirty Ginger",
+              "cuisine": "Asian Fusion with Greek Influences",
+              "priceRange": "€20-30 per person",
+              "specialDish": "Pan-Asian dishes with Mediterranean touches",
+              "walkingTime": "3 minutes from Psiri center",
+              "phone": "+30 21 0523 2532",
+              "address": "Karaiskaki 46, Athens",
+              "mobileNote": "Hip atmosphere, great for drinks too",
+              "openingHours": "19:00-02:00 daily"
+            }
+          ],
+          "activities": [
+            {
+              "name": "Dinner and Wine Experience",
+              "description": "Enjoy extended Greek dinner with local wines",
+              "duration": "2 hours",
+              "price": "€25-40 per person",
+              "mobileNote": "Take your time - Greeks don't rush dinner"
+            },
+            {
+              "name": "Psiri Bar Crawl",
+              "description": "Experience Athens nightlife at multiple venues",
+              "duration": "2-3 hours",
+              "price": "€5-10 per drink",
+              "mobileNote": "Safe area with lots of options - perfect final night activity"
+            }
+          ],
+          "directions": {
+            "to": "Return to Hotel",
+            "distance": "1.2km",
+            "time": "15 min walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9764,23.7206"
+          }
+        }
+      ],
+      "travelInfo": {
+        "distance": "9.7km total",
+        "cost": "€22.90 (attractions + transport + cable car)",
+        "time": "13 hours (full exploration day)"
+      },
+      "dailySummary": {
+        "totalWalkingTime": "2 hours 45 minutes",
+        "totalTransportCost": "€1.40-4.20",
+        "totalDiningBudget": "€35-75",
+        "totalAttractionCosts": "€15.50 (Zeus Temple + Lycabettus cable car)",
+        "keyHighlights": ["Temple of Olympian Zeus", "Central Market experience", "Lycabettus sunset", "Psiri nightlife"],
+        "tomorrowPrep": ["Pack for departure", "Check flight times", "Enjoy final Athens morning", "Get souvenirs"]
+      },
+      "practicalInfo": {
+        "emergencyNumber": "112",
+        "nearbyHospital": "General Hospital of Athens, Mesogion 154, Athens",
+        "localCustoms": [
+          "Markets are busiest in morning - afternoon is calmer",
+          "Don't haggle aggressively in established markets",
+          "Try small samples before buying specialty foods",
+          "Athens nightlife peaks after 22:00 - perfect timing for dinner first"
+        ],
+        "mobileEssentials": [
+          "Bring extra phone storage for photos",
+          "Download final Athens maps for tomorrow",
+          "Save favorite restaurant locations",
+          "Get contact info for new friends made"
+        ],
+        "budgetBreakdown": {
+          "transport": "€1.40-4.20",
+          "attractions": "€15.50",
+          "meals": "€35-75",
+          "souvenirs": "€15-50 (optional)",
+          "drinks": "€15-30 (optional)",
+          "total": "€81.90-174.70 per person"
+        }
+      },
+      "events": []
+    },
+    {
+      "date": "2025-05-29",
+      "dayOfWeek": "Thursday",
+      "stops": [
+        {
+          "name": "Breakfast",
+          "type": "Dining",
+          "address": "Hotel or nearby café",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "08:00-09:00",
+          "duration": "1 hour",
+          "description": "Final Greek breakfast before departure - savor the last Athens morning",
+          "mobileInfo": {
+            "quickTip": "Last morning in Athens - take it slow and enjoy the experience",
+            "essentials": ["Check out time is 12:00", "Confirm flight details", "Pack souvenirs carefully", "Get hotel receipt"]
+          },
+          "diningRecommendations": [
+            {
+              "name": "Traditional Greek Breakfast",
+              "cuisine": "Greek",
+              "priceRange": "€8-15",
+              "specialDish": "Greek yogurt with honey, fresh bread, and strong coffee",
+              "mobileNote": "Perfect way to end your Athens food journey"
+            }
+          ],
+          "directions": {
+            "to": "Syntagma Square & Parliament",
+            "distance": "1.5km",
+            "time": "20 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9755,23.7348&navigate=yes&from=37.9838,23.7275"
+          }
+        },
+        {
+          "name": "Syntagma Square & Parliament",
+          "type": "Place of Interest",
+          "address": "Syntagma Square, Athens 105 63, Greece",
+          "coordinates": "37.9755,23.7348",
+          "scheduledTime": "09:30-12:30",
+          "duration": "3 hours",
+          "walkingTime": "20 minutes from hotel",
+          "description": "Visit central Athens and watch the famous Changing of the Guard ceremony at the Tomb of the Unknown Soldier",
+          "wikiInfo": {
+            "title": "About Syntagma Square",
+            "content": "Syntagma Square is the central square of Athens, Greece. Named after the Constitution that Otto, the first King of Greece, was obliged to grant after a popular uprising in 1843. It's the heart of modern Athens.",
+            "link": "https://en.wikipedia.org/wiki/Syntagma_Square"
+          },
+          "mobileInfo": {
+            "quickTip": "Perfect final Athens activity - iconic ceremony happens every hour",
+            "essentials": ["Ceremony every hour on the hour", "Best viewing from steps", "Respectful behavior required", "Great photo opportunity"]
+          },
+          "photoSpots": [
+            "Evzones (presidential guards) in traditional uniform during ceremony",
+            "Parliament building facade with Greek flag",
+            "Syntagma Square plaza with fountain",
+            "National Gardens entrance",
+            "Underground metro station archaeological displays"
+          ],
+          "timeline": [
+            "1843: Square named after Constitution granted by King Otto",
+            "1935: Tomb of the Unknown Soldier erected",
+            "1932: Current Parliament building completed (former Royal Palace)",
+            "1950s: Modern layout of square established",
+            "2000s: Metro station opened with archaeological exhibits"
+          ],
+          "activities": [
+            {
+              "name": "Changing of the Guard Ceremony",
+              "description": "Watch the traditional ceremony at Tomb of Unknown Soldier",
+              "duration": "15 minutes",
+              "price": "Free",
+              "mobileNote": "Happens every hour - arrive 10 minutes early for best spots",
+              "schedule": "Every hour on the hour, 24/7"
+            },
+            {
+              "name": "Parliament Building Viewing",
+              "description": "Admire the neoclassical architecture of Greek Parliament",
+              "duration": "30 minutes",
+              "price": "Free",
+              "mobileNote": "Former Royal Palace - impressive facade and grounds"
+            },
+            {
+              "name": "National Gardens Walk",
+              "description": "Stroll through the adjacent public gardens",
+              "duration": "1 hour",
+              "price": "Free",
+              "mobileNote": "Peaceful green space in city center - perfect for final Athens relaxation"
+            },
+            {
+              "name": "Final Athens Shopping",
+              "description": "Last-minute souvenir shopping around Syntagma",
+              "duration": "1 hour",
+              "price": "Varies",
+              "mobileNote": "Many shops nearby for final Greek purchases"
+            }
+          ],
+          "souvenirs": [
+            "Greek Parliament and Evzones postcards (€2-5)",
+            "Traditional Greek flag items (€3-15)",
+            "Books about modern Greek history (€10-20)",
+            "Evzones figurines and memorabilia (€8-25)"
+          ],
+          "directions": {
+            "to": "Final Lunch Location",
+            "distance": "0.5km",
+            "time": "6 min walk",
+            "cost": "Free",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9740,23.7340&navigate=yes&from=37.9755,23.7348"
+          }
+        },
+        {
+          "name": "Final Lunch in Athens",
+          "type": "Dining",
+          "address": "Central Athens, Greece",
+          "coordinates": "37.9740,23.7340",
+          "scheduledTime": "12:30-13:30",
+          "duration": "1 hour",
+          "description": "Last meal in Athens before departure - choose something memorable",
+          "mobileInfo": {
+            "quickTip": "Make it special - your final taste of Athens before leaving",
+            "essentials": ["Try one last Greek specialty", "Savor the moment", "Don't rush", "Get receipt for memories"]
+          },
+          "cuisine": [
+            "Fresh Mediterranean seafood specialties",
+            "Traditional Greek mezze for sharing",
+            "Classic souvlaki or moussaka",
+            "Greek coffee and traditional sweets for dessert"
+          ],
+          "diningRecommendations": [
+            {
+              "name": "Varoulko Seaside",
+              "cuisine": "Seafood Fine Dining",
+              "priceRange": "€45-65 per person",
+              "specialDish": "Mediterranean seafood tasting menu with Aegean views",
+              "walkingTime": "10 minutes from Syntagma",
+              "phone": "+30 21 0522 8400",
+              "mobileNote": "Michelin-starred farewell meal - book ahead, worth the splurge",
+              "openingHours": "13:00-16:00, 20:00-24:00"
+            },
+            {
+              "name": "Dionysos Restaurant",
+              "cuisine": "Traditional Greek with View",
+              "priceRange": "€25-40 per person",
+              "specialDish": "Classic Greek mezze selection with Acropolis views",
+              "walkingTime": "5 minutes from Syntagma",
+              "phone": "+30 21 0923 3182",
+              "mobileNote": "Perfect balance of quality, tradition, and atmosphere",
+              "openingHours": "12:00-16:00, 19:00-24:00"
+            }
+          ],
+          "directions": {
+            "to": "Hotel for Checkout",
+            "distance": "1.5km",
+            "time": "20 min walk or 12 min metro",
+            "cost": "Free walk or €1.40 metro",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9838,23.7275&navigate=yes&from=37.9740,23.7340"
+          }
+        },
+        {
+          "name": "Return to Hotel for Checkout",
+          "type": "Transport",
+          "address": "Skylark Athens Hotel",
+          "coordinates": "37.9838,23.7275",
+          "scheduledTime": "13:30",
+          "duration": "30 minutes",
+          "description": "Return to hotel for checkout and luggage collection",
+          "mobileInfo": {
+            "quickTip": "Checkout by 12:00 or arrange late checkout - get final receipts",
+            "essentials": ["Check room for forgotten items", "Get hotel receipt", "Confirm luggage storage if needed", "Get final Athens recommendations"]
+          },
+          "activities": [
+            {
+              "name": "Hotel Checkout",
+              "description": "Complete checkout process and collect luggage",
+              "duration": "15 minutes",
+              "price": "Free",
+              "mobileNote": "Double-check room and get all receipts"
+            },
+            {
+              "name": "Final Athens Moments",
+              "description": "Take final photos outside hotel, soak in the atmosphere",
+              "duration": "15 minutes",
+              "price": "Free",
+              "mobileNote": "Perfect time to reflect on your Athens experience"
+            }
+          ],
+          "directions": {
+            "to": "Athens International Airport",
+            "distance": "40km",
+            "time": "45-90 minutes (depending on transport and traffic)",
+            "cost": "€10 (metro) or €35-50 (taxi)",
+            "wazeLink": "https://www.waze.com/ul?ll=37.9364,23.9475&navigate=yes&from=37.9838,23.7275"
+          }
+        },
+        {
+          "name": "Departure to Airport",
+          "type": "Transport",
+          "address": "Athens International Airport, Spata, Greece",
+          "coordinates": "37.9364,23.9475",
+          "scheduledTime": "14:00",
+          "duration": "45-90 minutes travel time",
+          "description": "Depart for airport for 15:35 flight - allow plenty of time for international departure",
+          "mobileInfo": {
+            "quickTip": "International flight requires 2+ hours early arrival - don't rush but allow time",
+            "essentials": ["Check-in opens 3 hours before", "Bring passport and boarding pass", "Allow for security lines", "Get to gate early"]
+          },
+          "transportOptions": [
+            {
+              "method": "Metro Line 3 (Blue Line)",
+              "duration": "45 minutes direct",
+              "cost": "€10",
+              "frequency": "Every 30 minutes",
+              "mobileNote": "Most reliable option - direct to airport, no traffic issues",
+              "pros": ["No traffic delays", "Cheapest option", "Direct route"],
+              "cons": ["Less comfortable with luggage", "Fixed schedule"]
+            },
+            {
+              "method": "X95 Express Bus",
+              "duration": "60-90 minutes (traffic dependent)",
+              "cost": "€6",
+              "frequency": "Every 20 minutes",
+              "mobileNote": "Budget option but allow extra time for traffic",
+              "pros": ["Cheapest", "More luggage space"],
+              "cons": ["Traffic dependent", "Longer journey time"]
+            },
+            {
+              "method": "Taxi or Beat App",
+              "duration": "45-75 minutes (traffic dependent)",
+              "cost": "€35-50 (including tolls and tip)",
+              "frequency": "On demand",
+              "mobileNote": "Most convenient for luggage but most expensive",
+              "pros": ["Door to door", "Comfortable", "Help with luggage"],
+              "cons": ["Most expensive", "Traffic dependent", "Possible communication issues"]
+            }
+          ],
+          "activities": [
+            {
+              "name": "Airport Journey",
+              "description": "Travel to Athens International Airport for departure",
+              "duration": "45-90 minutes",
+              "price": "€6-50 depending on transport choice",
+              "mobileNote": "Recommended: Metro for reliability, taxi for convenience with luggage"
+            },
+            {
+              "name": "Final Athens Views",
+              "description": "Enjoy final views of Athens during departure journey",
+              "duration": "Throughout journey",
+              "price": "Free",
+              "mobileNote": "Perfect time to reflect on your Athens business trip experience"
+            }
+          ]
+        }
+      ],
+      "travelInfo": {
+        "distance": "43.5km total",
+        "cost": "€16.40-61.40 (depending on transport and dining choices)",
+        "time": "6.5 hours (departure day)"
+      },
+      "dailySummary": {
+        "totalWalkingTime": "1 hour 15 minutes",
+        "totalTransportCost": "€6-50 (airport transport choice)",
+        "totalDiningBudget": "€35-80",
+        "totalAttractionCosts": "€0 (all free activities)",
+        "keyHighlights": ["Changing of the Guard ceremony", "Final Greek meal", "Parliament building", "Athens departure"],
+        "tripCompletion": "End of Athens cultural and business experience"
+      },
+      "practicalInfo": {
+        "emergencyNumber": "112",
+        "nearbyHospital": "General Hospital of Athens, Mesogion 154, Athens",
+        "flightInfo": {
+          "departureTime": "15:35",
+          "recommendedArrival": "13:35 (2 hours early for international)",
+          "checkInOpens": "12:35 (3 hours before departure)",
+          "terminalInfo": "Check boarding pass for terminal"
+        },
+        "localCustoms": [
+          "Allow extra time for airport security on international flights",
+          "Keep boarding pass and passport easily accessible", 
+          "Check airline baggage restrictions before departure",
+          "Tip taxi drivers 10% if using taxi to airport"
+        ],
+        "mobileEssentials": [
+          "Download boarding pass to phone as backup",
+          "Ensure phone is charged for journey",
+          "Save Athens photos to cloud before departure",
+          "Exchange contact information with business connections made"
+        ],
+        "budgetBreakdown": {
+          "transport": "€6-50",
+          "meals": "€35-80",
+          "attractions": "€0",
+          "souvenirs": "€10-30 (optional)",
+          "total": "€51-160 per person"
+        },
+        "departureChecklist": [
+          "Passport and boarding pass ready",
+          "Hotel checkout completed and receipt obtained",
+          "All luggage accounted for",
+          "Souvenirs packed safely",
+          "Phone charged and offline maps downloaded",
+          "Final Athens photos taken",
+          "Business cards and contacts organized"
+        ]
+      },
+      "events": []
+        }
+  ]
+}

@@ -1,0 +1,74 @@
+/* styles.css — Slimmed-down accordion and map styling */
+:root {
+  --card-bg: #fff;
+  --card-border: #ddd;
+  --card-radius: 8px;
+  --card-shadow: rgba(0,0,0,0.05) 0px 2px 8px;
+  --summary-hover: #f7f7f7;
+  --arrow-size: 0.6em;
+  --transition: 0.3s ease;
+  --gap: 12px;
+  --padding: 16px;
+  --primary: #0366d6;
+  --text: #333;
+  --muted: #666;
+}
+
+details summary { list-style: none; cursor: pointer; }
+details summary::-webkit-details-marker { display: none; }
+
+details {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  margin-bottom: 1rem;
+  overflow: hidden;
+  transition: all var(--transition);
+}
+
+summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--padding);
+  position: relative;
+  transition: background var(--transition);
+}
+summary:hover { background: var(--summary-hover); }
+summary::before {
+  content: '▶';
+  margin-right: var(--gap);
+  font-size: var(--arrow-size);
+  transition: transform var(--transition);
+}
+details[open] > summary::before { transform: rotate(90deg); }
+
+.day-summary { font-weight: bold; border-bottom: 1px solid var(--card-border); }
+.day-left span, .day-right span { margin-right: var(--gap); }
+.day-right { font-size: 0.9em; color: var(--muted); }
+.day-body { padding: 0 var(--padding) var(--padding); }
+
+.stop-summary { font-size: 0.95em; border-bottom: 1px solid var(--card-border); }
+.stop-summary label { display: flex; align-items: center; gap: var(--gap); }
+.stop-summary .idx { color: var(--primary); font-weight: bold; }
+.stop-summary .name { flex: 1; }
+.stop-summary .time { color: var(--muted); font-size: 0.85em; }
+.stop-body { padding: var(--padding); }
+.stop-body p.desc { margin: var(--gap) 0; color: var(--text); line-height: 1.4; }
+
+.stop-section { margin-top: var(--gap); border: 1px solid var(--card-border); border-radius: var(--card-radius); overflow: hidden; }
+.stop-section > summary { padding: calc(var(--padding)/2) var(--padding); background: #fafafa; font-size: 0.9em; }
+.stop-section .section-list { padding: var(--padding); list-style: disc inside; margin: 0; color: var(--text); }
+
+.back-to-day { margin-top: var(--gap); background: none; border: none; color: var(--primary); cursor: pointer; font-size: 0.9em; padding: 0; }
+.back-to-day:hover { text-decoration: underline; }
+
+/* Map containers */
+.stop-map {
+  width: 100%;
+  height: 200px;
+  margin-top: var(--gap);
+  border-radius: var(--card-radius);
+  overflow: hidden;
+}
