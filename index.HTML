@@ -4,39 +4,46 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
   <title>My Work Trip</title>
+
+  <!-- your accordion + map styles -->
   <link rel="stylesheet" href="styles.css" />
+
+  <!-- Leaflet CSS & JS -->
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
   />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </head>
+
 <body>
   <h1>My Work Trip</h1>
 
-  <!-- where the JS will render your itinerary -->
+  <!-- our rendering target -->
   <div id="itinerary-container"></div>
 
-  <!-- load your JSON, then load script.js -->
+  <!-- 1) load your JSON, 2) stash it on window, 3) then dynamically load script.js -->
   <script>
-    fetch('itinerary-data.json')
-      .then(res => {
-        if (!res.ok) throw new Error('Failed to load itinerary-data.json');
-        return res.json();
-      })
-      .then(json => {
-        window.itineraryData = json;
-        // now that data is ready, load your script
-        const s = document.createElement('script');
-        s.src = 'script.js';
-        document.body.appendChild(s);
-      })
-      .catch(err => {
-        console.error(err);
+    (async function() {
+      try {
+        // note the “.json” extension here must match your filename exactly
+        const res = await fetch('./itinerary-data.json');
+        if (!res.ok) throw new Error(res.status + ' ' + res.statusText);
+        window.itineraryData = await res.json();
+      } catch (err) {
+        console.error('Could not load itinerary-data.json:', err);
         document
           .getElementById('itinerary-container')
-          .textContent = 'Could not load itinerary.';
-      });
+          .textContent = '⚠️ Failed to load itinerary.';
+        return;
+      }
+
+      // only once the data is in place do we load the accordion renderer
+      const s = document.createElement('script');
+      s.src = 'script.js';
+      s.defer = true;
+      document.body.appendChild(s);
+    })();
   </script>
 </body>
 </html>
